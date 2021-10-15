@@ -1,5 +1,7 @@
 // Import Swiper React components
-import { Swiper, SwiperSlide } from "swiper/react";
+// import { Swiper, SwiperSlide } from "swiper/react";
+// This will have a different error...
+import { Swiper, SwiperSlide } from "swiper/react/swiper-react";
 
 // Import Swiper styles
 // import "swiper/css"; // this didn't work either...
